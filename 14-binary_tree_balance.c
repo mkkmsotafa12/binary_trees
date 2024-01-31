@@ -42,5 +42,6 @@ int binary_tree_height_sub(binary_tree_t *tree)
 		else
 			return (right_height);
 	}
+
 	return (0);
 }
